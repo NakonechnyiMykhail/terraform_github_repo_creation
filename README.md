@@ -27,7 +27,8 @@
 * [Example Terraform code to Create Github Repository](https://www.devopsschool.com/blog/example-terraform-code-to-create-github-repository/)
 * [Manage and maintain GitHub with Terraform ](https://dev.to/pwd9000/manage-and-maintain-github-with-terraform-2k86)
 * [integrations / terraform-provider-github](https://github.com/integrations/terraform-provider-github)
-
+* [Cookiecutter docs](https://cookiecutter.readthedocs.io/en/stable/)
+* [Start functions with style using Cookiecutter](https://medium.com/codeshake/start-functions-with-style-using-cookiecutter-bc1c47196037)
 * [Automate Terraform with GitHub Actions](https://developer.hashicorp.com/terraform/tutorials/automation/github-actions)
 * [Terraform Github Actions example 1](https://github.com/neillturner/terraform-github-actions)
 * [Terraform Github Actions example 2](https://github.com/xsalazar/terraform-github-actions-example)
