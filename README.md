@@ -1,6 +1,4 @@
 # Terraform script to create Github Repository
-
-Create Github repository from terraform script
 =======
 
 ## Requirements
