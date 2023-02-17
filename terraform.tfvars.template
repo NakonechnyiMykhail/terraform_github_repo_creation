@@ -1,0 +1,15 @@
+gh_owner = "{email/username}"
+
+# Your Github personal access token
+# set gh_token or `export GITHUB_TOKEN=` and comment token in provider
+gh_token = ""
+
+gh_repo_name = "repository-name"
+gh_repo_description = "Test description"
+gh_visibility = "public"
+gh_repo_auto_init = "true"
+gh_license_template = "mit"
+
+
+# gh_repo_template_username = ""
+# gh_repo_template = ""
